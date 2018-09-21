@@ -27,7 +27,7 @@ I have been in the feild of engineering for many years and have an impressive po
 
 I enjoy dancing,doodling and painiting. These help me rejunivate from the stress and chaos around me.
 <div class="card mb-3">
-    <img class="card-img-top" src="/portfolio/theme/img/paintings.jpg" />
+    <img class="card-img-top" src="/theme/img/paintings.jpg" />
     <div class="card-body bg-light">
         <div class="card-text">My paintings.</div>
     </div>
