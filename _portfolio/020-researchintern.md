@@ -16,7 +16,7 @@ Defence Research & Development Organisation works towards enhancing self-relianc
 From [https://en.wikipedia.org/wiki/Defence_Research_and_Development_Organisation](https://en.wikipedia.org/wiki/Defence_Research_and_Development_Organisation)
 
 <div class="card mb-3">
-    <img class="card-img-top" src = "/theme/img/drdoflowchart.jpg"/>
+    <img class="card-img-top" src = "/theme/img/drdoflowchart.JPG"/>
     <div class="card-body bg-light">
         <div class="card-text">Screenshot of an instance of a project.</div>
     </div>
