@@ -1,0 +1,28 @@
+- caption: GitHub
+  href: https://github.com/mounikachandra
+  icon: entypo/github.svg
+
+- caption: Linkedin
+  href: https://www.linkedin.com/in/mounika-gandavarapu-0aa4abb8/
+  icon: entypo/linkedin-with-circle.svg
+
+- caption: Facebook
+  href: https://www.facebook.com/mounika.chandra.1
+  icon: entypo/facebook.svg
+
+- caption: Twitter
+  href: https://twitter.com/MGandavarapu
+  icon: entypo/twitter.svg
+  
+- caption: Mail
+  href: mgandava@asu.edu
+  icon: entypo/mail-with-circle.svg
+  
+- caption: Medium
+  href: https://medium.com/@mouni.reddy94
+  icon: entypo/medium-with-circle.svg
+  
+  
+- caption: Tempe
+  href: https://www.google.com/maps/place/Tempe,+AZ/@33.3919027,-111.998142,12z/data=!3m1!4b1!4m5!3m4!1s0x872b0898a6aa80e3:0xa2dd4aad392cb41f!8m2!3d33.4255104!4d-111.9400054
+  icon: entypo/location-pin.svg
