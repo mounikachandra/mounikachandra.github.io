@@ -22,7 +22,7 @@ include: ["_pages", "_portfolio" ,"_projects"]
 collections:
   projects:
     output: true
-    title: Projects
+    title: projects
     permalink: /:collection/:name.html
   portfolio:
     output: true
@@ -57,7 +57,7 @@ defaults:
       path: "_projects"
     values:
       show_profile: false
-      layout: defaults/project
+      layout: defaults/projects
   -
     scope:
       path: "list"
