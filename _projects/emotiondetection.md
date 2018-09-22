@@ -30,6 +30,7 @@ The technique involves extracting mathematical data from some special regions of
 <li>As facial expressions vary, the graph changes and based on this change, we can map it to correct emotions</li>
 <li>Accurate mapping of emotions is achieved using fuzzy logic</li>
 <br>
+</ul>
 
 ## Results
 The accuracy rates are 94.19% for feature extraction part, 89% for standalone fuzzy logic systems and 81.8% for the
