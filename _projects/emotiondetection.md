@@ -21,15 +21,13 @@ The technique involves extracting mathematical data from some special regions of
 ## Features
 
 <b>Face detection</b>
-* The Viola–Jones object detection framework is the first object detection framework to provide competitive object detection rates in real-time
-<br>
 <ul>
+<li>The Viola–Jones object detection framework is the first object detection framework to provide competitive object detection rates in real-time</li>
 <li>Deduce emotion</li>
 <li>Points location method is used for feature extraction</li>
 <li>Finding Euclidean distance  between different points on the face. This forms a basic graph based construction of the face</li>
 <li>As facial expressions vary, the graph changes and based on this change, we can map it to correct emotions</li>
 <li>Accurate mapping of emotions is achieved using fuzzy logic</li>
-<br>
 </ul>
 
 ## Results
