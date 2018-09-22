@@ -18,7 +18,7 @@ Centre of Excellence(CoE), Visvesvaraya National Institute of Technology( VNIT) 
 From [https://theknowledgereview.com/visvesvaraya-national-institute-technology-centre-technical-excellence/](https://theknowledgereview.com/visvesvaraya-national-institute-technology-centre-technical-excellence/)
 
 <div class="card mb-3">
-    <img class="card-img-top" src="/theme/img/homeautomation.jpg" />
+    <img class="card-img-top" src="/theme/img/homeautomation.JPG" />
     <div class="card-body bg-light">
         <div class="card-text">Screenshot of project</div>
     </div>
